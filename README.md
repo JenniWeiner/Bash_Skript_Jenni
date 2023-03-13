@@ -1,3 +1,3 @@
 # Mein erstes Repositorium :smiley:
-Hier liegt mein Bash Skript aus dem Lbrary Carpentry Workshop.
+Hier liegt mein Bash Skript aus dem Library Carpentry Workshop.
 Author: Jenni
